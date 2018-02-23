@@ -823,7 +823,7 @@
 		"jarName": "MassiveFactions.jar",
 		"configName": "MassiveFactions",
 		"requiredRank": "silver",
-		"disabled": true
+		"disabled": false
 	},
 	{
 		"name": "Massive Core",
